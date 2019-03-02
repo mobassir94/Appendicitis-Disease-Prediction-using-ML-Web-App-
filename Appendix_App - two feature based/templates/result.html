@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Result</title>
+    <link rel="stylesheet" type="type/css" href="{{url_for('static', filename='css/style.css')}}" </head>
+    <body bgcolor="#00FF00">
+  <h1  align="center">Machine learning based disease predictor App</h1>
+
+        <header>
+            <div class="container">
+                <div id="brandname">
+                </div>
+                <h2 style="color:red" >Affected by Appendicitis Disease? </h2>
+            </div>
+        </header>
+        <h1>Results For patient :</h1>
+        <div class="results">
+            {% if prediction == 1 %}
+            <h1 style="color:red" align="center">"YES" ML Algorithm predicts that you have <strong >Disease</strong></h1>
+            {% elif prediction == 0%}
+            <h1 style="color:blue" align="center">"No" You don't Have Disease!!!</h1>
+			{% endif %}
+        </div>
+        <br> 
+      <h2 style="color:blue" align="center">Algorithm used : CATBOOST </h2>
+	  <h2 style="color:blue" align="center">Model Accuracy : 100% </h2>
+	  <h2 style="color:blue" align="center">Precision Score: 100% </h2>
+	  <h2 style="color:blue" align="center">Recall Score : 100% </h2>
+	  <h2 style="color:blue" align="center">Precise Cross validation Accuracy Score: 0.9950248756218905</h2>
+	  <h2 style="color:blue" align="center">Dataset size : 200 patients record </h2>
+	  <h2 style="color:blue" align="center">Dataset source : collected from Shaheed Suhrawardy Medical College & Hospital (SSMCH) Dhaka </h2>
+    </body>
+</html>

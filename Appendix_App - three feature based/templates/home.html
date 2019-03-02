@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<head>
+    <title>Appendicitis</title>
+    <link rel="stylesheet" type="type/css" href="{{url_for('static', filename='css/styles.css')}}" </head>
+
+<body bgcolor="#00FFFF">
+<div class="container-fluid" id="feedback">
+  <h1 style="color:red" align="center"><br> Appendicitis Disease predictor App <br></h1>
+   
+    <form action="{{ url_for('feedback') }}" method="post">
+       
+            <label class="sr-only" for="fever"><br><br><h2 style="color:red">Fever Runs?</h2></label>
+            <select class="form-control" id="fever" name="fever">
+                <option value="0">3 to 5 times</option>
+                <option value="1">Less than 3 times</option>
+                <option value="2">More than above</option>
+				<option value="3">None</option>
+            </select>
+			
+		
+			<label class="sr-only" for="painq"><h2 style="color:red">Pain Qualification? </h2></label>
+            <select class="form-control" id="painq" name="painq">
+                <option value="0">High</option>
+                <option value="1">Medium</option>
+				<option value="2">Low</option>
+				<option value="3">None</option>
+            </select>
+			
+			<label class="sr-only" for="nausea"><h2 style="color:red">Rate of Nausea? </h2></label>
+            <select class="form-control" id="nausea" name="nausea">
+                <option value="0" >Normal</option>
+                <option value="1">Not tolerable</option>
+				<option value="2">So much</option>
+				<option value="3">Little bit</option>
+				<option value="4">None</option>
+            </select>
+			
+         <br><br>
+        <div class="form-group">
+            <button class="btn btn-default" type="submit"><br><br><h1  style="color:blue"> Check Disease</h1></button>
+        </div>
+	
+    </form>
+</div>
+</body>
+</html>
