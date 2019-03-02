@@ -1,0 +1,201 @@
+Gender,Age,DrinkWater,Stalefood,UrineCondition,Fever,FeverRuns,Appetite,PassingGas,BellyPain,Abdominalpain,PainQualification,FamilyHistory,Diarrhea,Vomiting,RateOFNausea,MigrationPain,Surgery
+Female,31 to above,Yes,Yes,Critical,Yes,3 to 5 times,Yes,No,Yes,No,High,None,No,No,Normal,Yes,Yes
+Male,31 to above,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,Medium,Brother or Sister,No,Yes,Not tolerable,Yes,Yes
+Male,Between 10 to 30,No,Yes,Partial,Yes,3 to 5 times,Yes,No,Yes,Yes,Medium,None,No,Yes,So much,No,Yes
+Female,31 to above,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,High,Mother,No,Yes,Little Bit,No,Yes
+Female,31 to above,Yes,Yes,Normal,No,3 to 5 times,Yes,No,Yes,No,Medium,Mother Cast,No,Yes,Normal,Yes,Yes
+Male,31 to above,No,Yes,Critical,No,More than above,Yes,No,No,Yes,Medium,None,No,No,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,Less than 2,No,No,No,Yes,Medium,None,No,No,Little Bit,No,Yes
+Female,Between 10 to 30,No,No,Normal,Yes,Less than 2,No,No,Yes,Yes,High,None,Yes,Yes,So much,Yes,Yes
+Male,Between 10 to 30,No,Yes,Critical,No,More than above,Yes,No,Yes,Yes,High,None,No,No,Normal,No,Yes
+Male,Between 10 to 30,Yes,Yes,Partial,Yes,Less than 2,Yes,No,Yes,No,Low,None,No,No,Little Bit,No,Yes
+Male,31 to above,No,Yes,Partial,Yes,3 to 5 times,No,Yes,No,Yes,Medium,None,No,Yes,Little Bit,No,Yes
+Female,31 to above,Yes,Yes,Critical,Yes,More than above,Yes,No,Yes,Yes,High,None,No,No,Normal,Yes,Yes
+Female,Between 10 to 30,No,No,Normal,No,More than above,No,Yes,Yes,No,Medium,None,Yes,No,Normal,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,No,Less than 2,Yes,Yes,No,Yes,Low,None,Yes,Yes,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,Yes,No,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,No,Yes,High,None,Yes,Yes,Normal,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,Yes,No,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,Yes,Normal,Yes,Less than 2,No,Yes,Yes,Yes,Low,Father,Yes,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,No,Normal,No,More than above,No,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Low,None,No,Yes,So much,Yes,Yes
+Male,Between 10 to 30,No,No,Normal,Yes,Less than 2,No,Yes,No,Yes,Medium,None,No,No,Normal,Yes,Yes
+Male,31 to above,Yes,No,Normal,Yes,Less than 2,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,No,No,Normal,Yes,3 to 5 times,Yes,Yes,No,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,None,Yes,Yes,So much,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,Brother or Sister,No,Yes,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,Medium,None,No,Yes,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,No,No,No,Yes,High,None,No,Yes,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,3 to 5 times,Yes,No,No,Yes,High,None,No,Yes,Normal,Yes,Yes
+Female,Between 10 to 30,No,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,No,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,No,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,Yes,Normal,No,3 to 5 times,Yes,Yes,No,Yes,Medium,None,No,No,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,3 to 5 times,Yes,No,Yes,Yes,Medium,None,Yes,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,No,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,None,Yes,Yes,Little Bit,Yes,Yes
+Male,31 to above,No,No,Normal,Yes,More than above,No,Yes,Yes,Yes,Low,None,No,Yes,Normal,Yes,Yes
+Female,Between 10 to 30,No,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,No,Yes,Yes,Yes,High,None,No,No,Normal,Yes,Yes
+Female,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,No,No,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,Yes,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,Yes,Normal,Yes,3 to 5 times,Yes,Yes,No,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Low,None,No,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,No,Yes,Yes,Yes,Low,None,Yes,Yes,Normal,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,No,Yes,High,None,No,No,Little Bit,No,Yes
+Female,31 to above,No,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,So much,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,No,Yes,No,Yes,High,None,No,Yes,Normal,Yes,Yes
+Female,31 to above,No,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,No,More than above,Yes,Yes,No,Yes,Medium,None,No,Yes,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,No,More than above,No,Yes,No,Yes,Medium,None,Yes,No,Little Bit,No,Yes
+Male,Between 10 to 30,Yes,Yes,Partial,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Low,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,No,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,Normal,Yes,Yes
+Female,31 to above,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,No,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,Yes,Normal,Yes,More than above,No,Yes,No,Yes,Medium,None,No,Yes,Normal,No,Yes
+Male,Between 10 to 30,No,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,So much,Yes,Yes
+Male,31 to above,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,Yes,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,No,No,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,No,No,No,Yes,High,None,No,Yes,Little Bit,No,Yes
+Female,31 to above,Yes,Yes,Normal,No,More than above,Yes,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,High,None,No,Yes,So much,Yes,Yes
+Male,31 to above,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,So much,No,Yes
+Male,31 to above,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,So much,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,More than above,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,No,Yes,So much,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,No,Normal,No,Less than 2,No,Yes,No,No,Low,None,No,No,Normal,No,Yes
+Male,Between 10 to 30,No,Yes,Normal,Yes,3 to 5 times,Yes,No,Yes,Yes,Medium,None,No,Yes,So much,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,No,More than above,Yes,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,No,More than above,Yes,Yes,No,Yes,High,None,No,Yes,Normal,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,3 to 5 times,No,Yes,Yes,Yes,Medium,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,No,No,Normal,Yes,More than above,Yes,Yes,No,Yes,Medium,None,No,No,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Normal,No,Less than 2,Yes,Yes,Yes,No,Low,Father,Yes,No,Little Bit,No,Yes
+Female,31 to above,Yes,No,Critical,Yes,More than above,Yes,Yes,No,Yes,Medium,None,No,No,Not tolerable,Yes,Yes
+Female,Between 10 to 30,Yes,No,Normal,No,Less than 2,No,Yes,Yes,Yes,High,None,Yes,Yes,Little Bit,Yes,Yes
+Female,Between 10 to 30,No,Yes,Partial,Yes,3 to 5 times,Yes,No,No,Yes,Medium,None,Yes,No,Not tolerable,Yes,Yes
+Female,31 to above,No,Yes,Critical,Yes,3 to 5 times,No,Yes,No,No,Low,None,Yes,No,So much,Yes,Yes
+Male,Between 10 to 30,Yes,Yes,Partial,No,More than above,Yes,Yes,Yes,Yes,Low,None,Yes,No,Not tolerable,No,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,3 to 5 times,Yes,Yes,No,Yes,Medium,None,No,No,Normal,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,No,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,No,Yes,No,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,Yes,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,No,Normal,Yes,3 to 5 times,No,No,No,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,Yes,Yes,Normal,Yes,More than above,Yes,No,Yes,No,High,None,No,Yes,Little Bit,Yes,Yes
+Male,31 to above,No,No,Normal,Yes,More than above,Yes,Yes,Yes,Yes,High,None,No,No,Normal,Yes,Yes
+Male,Between 10 to 30,No,Yes,Normal,Yes,3 to 5 times,Yes,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Male,Between 10 to 30,No,No,Normal,Yes,3 to 5 times,No,Yes,No,No,Medium,None,No,Yes,Normal,Yes,Yes
+Female,31 to above,Yes,Yes,Partial,Yes,3 to 5 times,Yes,No,Yes,Yes,Low,None,No,No,Not tolerable,No,Yes
+Male,Between 10 to 30,No,Yes,Partial,Yes,Less than 2,No,No,No,No,Medium,None,No,Yes,Normal,Yes,Yes
+Male,31 to above,Yes,Yes,Critical,No,3 to 5 times,Yes,No,No,No,Medium,None,No,Yes,Not tolerable,Yes,Yes
+Male,31 to above,No,Yes,Critical,No,More than above,No,Yes,Yes,Yes,High,None,No,Yes,Little Bit,Yes,Yes
+Female,31 to above,Yes,Yes,Normal,Yes,None,No,No,No,Yes,None,Father,No,No,None,No,No
+Male,Between 10 to 30,No,Yes,Normal,Yes,Less than 2,No,Yes,No,No,None,None,Yes,No,None,No,No
+Female,31 to above,No,No,Normal,Yes,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,Yes,Normal,Yes,None,No,Yes,Yes,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,31 to above,Yes,Yes,Normal,No,None,No,Yes,Yes,Yes,Low,None,No,Yes,Little Bit,No,No
+Female,Between 10 to 30,Yes,No,Normal,Yes,Less than 2,No,Yes,Yes,Yes,Medium,None,No,No,None,Yes,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,No,No,Yes,Yes,Low,None,No,Yes,Little Bit,Yes,No
+Female,Between 10 to 30,No,No,Normal,No,None,Yes,Yes,No,No,None,None,No,Yes,None,Yes,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,Father Cast,No,No,So much,No,No
+Female,Between 10 to 30,Yes,No,Normal,Yes,None,Yes,Yes,No,No,None,None,Yes,No,Little Bit,No,No
+Male,31 to above,Yes,Yes,Critical,Yes,Less than 2,Yes,Yes,Yes,Yes,Medium,None,No,Yes,So much,Yes,No
+Female,31 to above,No,No,Partial,Yes,3 to 5 times,No,No,Yes,Yes,High,None,Yes,No,None,Yes,No
+Male,Between 10 to 30,Yes,No,Normal,Yes,None,No,Yes,No,No,None,None,No,Yes,None,No,No
+Male,31 to above,No,No,Normal,Yes,Less than 2,No,No,Yes,Yes,Medium,None,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,Yes,No,Yes,Yes,High,Mother,No,No,None,Yes,No
+Male,Between 10 to 30,No,Yes,Partial,No,3 to 5 times,No,Yes,Yes,Yes,Medium,Mother,No,No,None,No,No
+Male,31 to above,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,Yes,No,None,No,No
+Male,Between 10 to 30,No,Yes,Partial,Yes,3 to 5 times,No,Yes,Yes,Yes,Medium,None,No,Yes,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,Less than 2,No,No,Yes,Yes,Medium,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,Yes,No,Yes,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,No,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,Yes,Little Bit,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,Yes,Yes,No,No,None,None,No,No,Normal,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,None,No,Yes,No,No,Low,None,No,No,None,No,No
+Male,31 to above,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,31 to above,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,No,Yes,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,None,Yes,Yes,No,No,None,None,No,Yes,Normal,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,No,No,No,None,Brother or Sister,No,No,None,Yes,No
+Male,31 to above,No,Yes,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,No,Normal,Yes,None,No,Yes,No,No,None,Mother Cast,No,No,None,No,No
+Male,Between 10 to 30,No,Yes,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,No,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,Yes,Normal,No,None,Yes,No,Yes,No,None,None,No,Yes,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,Father,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 1 to 9,No,Yes,Normal,Yes,None,Yes,Yes,Yes,No,None,None,No,No,None,No,No
+Female,31 to above,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,31 to above,No,Yes,Critical,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,Mother,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,Yes,Yes,Yes,No,None,Mother,No,No,None,No,No
+Female,31 to above,Yes,Yes,Critical,No,None,No,Yes,Yes,No,None,None,No,No,None,No,No
+Male,31 to above,No,No,Critical,Yes,None,Yes,Yes,Yes,No,None,None,No,No,None,No,No
+Male,31 to above,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,Yes,Critical,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,31 to above,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,No,Yes,Critical,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,Yes,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,31 to above,No,Yes,Critical,Yes,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,No,No,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,Yes,None,No,Yes,Yes,No,None,None,No,No,None,No,No
+Male,31 to above,Yes,No,Normal,No,None,No,Yes,No,No,None,Mother,No,No,None,No,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,None,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,Yes,Normal,No,None,No,Yes,No,No,None,Brother or Sister,No,No,None,No,No
+Female,Between 10 to 30,No,Yes,Critical,No,None,Yes,Yes,Yes,No,None,None,No,Yes,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,No,None,Yes,Yes,No,No,None,None,No,Yes,None,No,No
+Male,Between 10 to 30,No,No,Normal,Yes,None,No,No,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,Yes,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,Brother or Sister,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Critical,No,None,No,Yes,Yes,No,Low,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,No,Yes,No,No,None,Father Cast,No,No,None,Yes,No
+Male,Between 10 to 30,Yes,No,Normal,Yes,None,No,Yes,Yes,No,Low,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,Yes,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,Yes,No,Normal,Yes,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,No,None,Yes,Yes,Yes,No,Low,None,Yes,No,None,No,No
+Male,Between 10 to 30,No,No,Normal,No,None,No,Yes,No,No,None,Brother or Sister,No,No,None,No,No
+Female,Between 1 to 9,Yes,No,Normal,Yes,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,31 to above,Yes,No,Partial,Yes,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,31 to above,Yes,Yes,Normal,Yes,None,No,Yes,No,No,None,None,No,Yes,None,Yes,No
+Female,Between 1 to 9,No,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Male,Between 10 to 30,No,Yes,Partial,Yes,None,Yes,No,No,No,None,None,Yes,No,None,No,No
+Female,31 to above,Yes,No,Normal,No,None,No,Yes,Yes,Yes,Low,None,Yes,No,None,No,No
+Female,Between 1 to 9,Yes,No,Normal,No,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Male,31 to above,No,No,Normal,Yes,None,Yes,Yes,No,No,None,Father,No,No,None,No,No
+Female,31 to above,Yes,Yes,Normal,No,None,No,Yes,Yes,Yes,Medium,None,No,No,None,No,No
+Female,Between 10 to 30,No,No,Normal,Yes,None,Yes,Yes,No,No,None,None,No,No,None,No,No
+Female,Between 10 to 30,No,No,Normal,No,None,No,Yes,No,No,None,Mother Cast,No,No,None,No,No
+Female,Between 10 to 30,No,No,Normal,No,None,No,Yes,No,No,None,Father Cast,No,No,None,No,No
+Female,Between 10 to 30,No,No,Normal,Yes,None,No,Yes,Yes,No,Low,Father Cast,No,Yes,None,No,No
+Male,Between 10 to 30,Yes,No,Normal,Yes,None,No,Yes,No,No,None,Mother Cast,No,Yes,None,No,No
+Male,Between 10 to 30,No,No,Normal,No,None,No,Yes,No,No,None,Father Cast,No,No,None,No,No
+Male,31 to above,Yes,No,Normal,No,None,No,Yes,No,No,None,None,No,No,None,No,No
+Female,31 to above,No,No,Normal,Yes,None,No,Yes,No,No,None,Brother or Sister,No,No,None,No,No
+Female,Between 1 to 9,No,No,Normal,Yes,None,No,Yes,No,No,None,Brother or Sister,Yes,No,None,No,No
